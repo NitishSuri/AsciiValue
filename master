@@ -1,0 +1,11 @@
+# AsciiValue
+39th program on c
+#include<stdio.h>
+int main()
+{
+char c;
+printf("Enter a character \n");
+scanf("%c",&c);
+printf("Ascii value of %c is = %d ",c,c);
+return (0);
+}
